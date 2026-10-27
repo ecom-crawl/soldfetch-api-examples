@@ -1,6 +1,6 @@
 # SoldFetch API examples
 
-Runnable eBay search and item examples, following the Glade examples layout. These clients call the hosted [SoldFetch API](https://soldfetch.com); this repository does not contain the service implementation.
+Runnable eBay search and item examples. These clients call the hosted [SoldFetch API](https://soldfetch.com); this repository does not contain the service implementation.
 
 ## Run
 
